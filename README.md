@@ -1,3 +1,7 @@
-Interested in formal verification and low-level programming. Ask me about Type Theory and Category Theory!
+### Heya! ✨
 
-Currently working on [catk](https://github.com/meowesque/catk) and it's frontend [cfront](https://github.com/meowesque/cfront).
+I'm Maxine DeAndrade (nicknames: Max; pronouns he/she), a professional software engineer and hobbyist mathematician. I work on performance-critical applications in Rust for a living. In my free time I like to study pure mathematics.  
+
+  - I contribute to [OmniCloud](https://omnicloud.sh), an innovative approach to distributed systems.
+
+  - As leisure, I work on my side project [catk](https://github.com/meowesque/catk), an analysis framework for C99 as well as it's frontend [cfront](https://github.com/meowesque/cfront).
