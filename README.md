@@ -5,3 +5,5 @@ I'm Maxine DeAndrade (nicknames: Max; pronouns: he/she), a professional software
   - I contribute to [omnicloud.sh](https://omnicloud.sh), an innovative approach to running distributed cloud applications at scale.
 
   - As leisure, I work on my side project [catk](https://github.com/meowesque/catk), an analysis framework for C as well as its frontend [cfront](https://github.com/meowesque/cfront).
+
+  - Ask me about compiler design, programming language theory, formal verification, and Haskell or Rust programming. 
