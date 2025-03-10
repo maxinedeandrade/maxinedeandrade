@@ -1,4 +1,4 @@
-### Heya! ✨
+### Hiya! ✨
 
 I'm Maxine DeAndrade (nicknames: Max; pronouns: he/she), a professional software engineer and hobbyist mathematician. I work on performance-critical applications in Rust for a living. In my free time I like to study pure mathematics.  
 
